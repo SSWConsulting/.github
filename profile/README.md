@@ -8,7 +8,7 @@ Building the best software - Why you should work with us
 SSW has offices in Sydney, Brisbane, Melbourne, Newcastle, and Hangzhou.
 We have employees from all around the world.
 We're flexible, and in this fast paced industry, we're on the forefront of cutting edge technology.
-We're enthusiastic and have a ["Make it happen" culture](https://www.ssw.com.au/ssw/Company/Culture/).
+We're enthusiastic and have a ["Make it happen" culture](https://www.ssw.com.au/company/culture).
 We love engaging with the software development community.
 
 We have a really special team here at SSW.
