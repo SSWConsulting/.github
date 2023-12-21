@@ -3,7 +3,7 @@ Building the best software - Why you should work with us
 
 ## Things you will 💖 about SSW
 
-[<img src="http://img.youtube.com/vi/tWuutobJtdg/hqdefault.jpg" width="100%">](https://www.youtube.com/watch?v=tWuutobJtdg "Watch the video")
+[<img src="why-work-at-ssw-thumbnail.jpg" width="100%">](https://www.youtube.com/watch?v=tWuutobJtdg "Watch the video")
 
 SSW has offices in Sydney, Brisbane, Melbourne, Newcastle, and Hangzhou. We have employees from all around the world.
 
